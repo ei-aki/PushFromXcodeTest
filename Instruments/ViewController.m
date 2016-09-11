@@ -22,7 +22,7 @@
     lbl.backgroundColor = [UIColor redColor];
     lbl.center = self.view.center;
     [self.view addSubview:lbl];
-    // Do any additional setup after loading the view, typically from a nib.asdf
+    // Do any additional setup after loading the view, typically from a nib.asdfhjlk
 }
 
 - (void)didReceiveMemoryWarning {
